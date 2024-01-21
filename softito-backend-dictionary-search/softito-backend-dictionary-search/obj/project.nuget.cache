@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/WVsCBJecCaTrc+VL2bDw+S/VZXDTjDyQSmKTNnaZCjpMJboRo1nwyqwjNU1m8qFfQSf3zxjd1LYbg2e4p1Gg==",
+  "success": true,
+  "projectFilePath": "D:\\1 - DOCUMENTS\\html5softito\\facetoface\\softito-backend\\homeworks\\softito-backend-dictionary-search\\softito-backend-dictionary-search\\softito-backend-dictionary-search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
