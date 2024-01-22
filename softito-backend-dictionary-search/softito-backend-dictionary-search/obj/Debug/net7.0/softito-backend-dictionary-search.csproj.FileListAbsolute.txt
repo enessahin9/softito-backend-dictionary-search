@@ -1,0 +1,17 @@
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.csproj.AssemblyReference.cache
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.AssemblyInfoInputs.cache
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.AssemblyInfo.cs
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.csproj.CoreCompileInputs.cache
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\bin\Debug\net7.0\softito-backend-dictionary-search.exe
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\bin\Debug\net7.0\softito-backend-dictionary-search.deps.json
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\bin\Debug\net7.0\softito-backend-dictionary-search.runtimeconfig.json
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\bin\Debug\net7.0\softito-backend-dictionary-search.dll
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\bin\Debug\net7.0\softito-backend-dictionary-search.pdb
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.csproj.CopyComplete
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.dll
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\refint\softito-backend-dictionary-search.dll
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.pdb
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\softito-backend-dictionary-search.genruntimeconfig.cache
+D:\1 - DOCUMENTS\html5softito\facetoface\softito-backend\homeworks\softito-backend-dictionary-search\softito-backend-dictionary-search\obj\Debug\net7.0\ref\softito-backend-dictionary-search.dll
