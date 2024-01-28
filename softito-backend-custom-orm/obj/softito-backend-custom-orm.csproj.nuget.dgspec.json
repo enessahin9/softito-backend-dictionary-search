@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1 - DOCUMENTS\\html5softito\\facetoface\\softito-backend\\softito-backend-homeworks\\softito-backend-custom-orm\\softito-backend-custom-orm.csproj": {}
+  },
+  "projects": {
+    "D:\\1 - DOCUMENTS\\html5softito\\facetoface\\softito-backend\\softito-backend-homeworks\\softito-backend-custom-orm\\softito-backend-custom-orm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1 - DOCUMENTS\\html5softito\\facetoface\\softito-backend\\softito-backend-homeworks\\softito-backend-custom-orm\\softito-backend-custom-orm.csproj",
+        "projectName": "softito-backend-custom-orm",
+        "projectPath": "D:\\1 - DOCUMENTS\\html5softito\\facetoface\\softito-backend\\softito-backend-homeworks\\softito-backend-custom-orm\\softito-backend-custom-orm.csproj",
+        "packagesPath": "C:\\Users\\Enes\\.nuget\\packages\\",
+        "outputPath": "D:\\1 - DOCUMENTS\\html5softito\\facetoface\\softito-backend\\softito-backend-homeworks\\softito-backend-custom-orm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.JSInterop.WebAssembly": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
